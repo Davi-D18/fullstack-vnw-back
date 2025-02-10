@@ -15,8 +15,7 @@ O objetivo é consolidar os aprendizados e facilitar a consulta futura sobre o c
 
 ## 📂 Estrutura do Repositório  
 
-📁 **01 - Introdução ao Python**  
-📌 Conceitos básicos da linguagem.   
+Cada pasta será abordado um assunto diferente   
 
 ## 🚀 Como Usar  
 
